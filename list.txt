@@ -1,2 +1,3 @@
-Maize flour
-Bananas
+Maize flour.
+Bananas.
+Tea leaves.
